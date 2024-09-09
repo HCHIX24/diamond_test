@@ -6,4 +6,6 @@
 5. median carats for premium cuts
 6. mean of carats for every cut
 7. mean price for every color type
+
+   
 ##run py in terminal and create read update or delete the customers or cars!
